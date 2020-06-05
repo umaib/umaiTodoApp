@@ -1,6 +1,6 @@
-# Project: React Native Expo ToDo App
-# Author: Umai Balendra
-# Date: June 4, 2020
+## React Native Expo ToDo App
+### Author: Umai Balendra
+### Date: June 4, 2020
 
 
 Sources: 
